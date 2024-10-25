@@ -1,3 +1,4 @@
+![Screenshot from 2024-10-25 17-49-27](https://github.com/user-attachments/assets/8cd3285b-6075-4367-97c9-282bddc342be)
 
 
 ## Installation

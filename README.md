@@ -8,6 +8,8 @@
 ### contract address :- 0x9f773b5c03981F93De8676f40e6feBaFb888aD3b
 
 
+### blockchain network :- AIA Testnet
+
 ## Installation
 
 Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)

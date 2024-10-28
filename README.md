@@ -50,4 +50,3 @@ Preview the production build
 yarn start
 ```
 
-# AIA-Fund

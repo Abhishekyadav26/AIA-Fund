@@ -1,6 +1,13 @@
 ![Screenshot from 2024-10-25 17-49-27](https://github.com/user-attachments/assets/8cd3285b-6075-4367-97c9-282bddc342be)
 
 
+## link for aiascan
+
+ [here](https://testnet.aiascan.com/address/0x9f773b5c03981F93De8676f40e6feBaFb888aD3b)
+
+### contract address :- 0x9f773b5c03981F93De8676f40e6feBaFb888aD3b
+
+
 ## Installation
 
 Install the template using [thirdweb create](https://portal.thirdweb.com/cli/create)
